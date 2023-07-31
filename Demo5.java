@@ -12,7 +12,8 @@ public class Demo5 {
         final String C4 = "\033[35m";
 
         final String R = "\033[0m";
-        
+
+        System.out.printf("%5$s%1$s%9$s-%6$s%2$s%9$s-%7$s%3$s%9$s-%8$s%4$s%9$s\n",firstDigitsSet,secondDigitSet,thirdDigitSet,fourthDigitsSet,C1,C2,C3,C4,R);
 
 
         
