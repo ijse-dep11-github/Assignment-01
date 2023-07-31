@@ -1,12 +1,12 @@
 public class Demo4 {
     public static void main(String[] args) {
-        String day = "28";
-        String month = "12";
-        String year = "2023";
+        int day = 28;
+        int month = 12;
+        int year = 2023;
 
-        String hour = "23";
-        String minute = "59";
-        String second = "59";
+        int hour = 23;
+        int minute = 59;
+        int second = 59;
 
         final String DAY = "\033[31m";
         final String MONTH = "\033[32m";

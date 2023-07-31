@@ -1,8 +1,8 @@
 public class Demo6_task_a {
     public static void main(String[] args) {
 
-        String num1 = "5";
-        String num2 = "0";
+        int num1 = 5;
+        int num2 = 0;
         String syn1 ="[";
         String syn2 = "]";
 
